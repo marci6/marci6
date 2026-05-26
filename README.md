@@ -16,19 +16,6 @@ I don't just manage products — I've founded them. Three ventures from zero, on
 
 ---
 
-## PM artifacts
-
-> Most PMs have zero public artifacts. I'm changing that.
-
-| Artifact | Description |
-|----------|-------------|
-| [Fintech feature PRD](./pm-artifacts/prd-fintech-feature.md) | Full spec: success metrics, compliance edge cases, rollout strategy |
-| [Prioritization framework](./pm-frameworks/prioritization-model.md) | My scoring model for regulated, fast-moving product environments |
-| [Build vs buy vs fine-tune](./pm-frameworks/build-buy-finetune.md) | Decision framework for AI/ML features in fintech context |
-| [PSP integration playbook](./pm-artifacts/psp-integration-playbook.md) | What I learned integrating payment processors across 180+ countries |
-
----
-
 ## Technical depth
 
 I can read a PR, spec an API, and have an honest conversation with an ML team. My background:
@@ -52,7 +39,6 @@ I can read a PR, spec an API, and have an honest conversation with an ML team. M
 ## Writing & POV
 
 - 📝 [LinkedIn](https://linkedin.com/in/marcellochies) — product strategy, fintech ops, building in public
-- 🗒 [`til`](./til) — running notes at the intersection of fintech, SaaS, and AI product decisions
 
 ---
 
@@ -60,8 +46,6 @@ I can read a PR, spec an API, and have an honest conversation with an ML team. M
 
 - 🔍 Open to **Senior PM / Product Lead** roles — fintech, SaaS, or AI-powered financial products
 - 🌱 Particularly interested in: embedded finance, agentic tools for financial workflows, developer-facing fintech
-- 📬 Reach me: [marci006ch@gmail.com](mailto:marci006ch@gmail.com)
+- 📬 Reach me: marcellochiesa.it@gmail.com
 
 ---
-
-*Last updated: May 2026*
