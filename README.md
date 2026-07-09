@@ -9,7 +9,7 @@ Italy · Open to remote PM roles globally
 
 I don't just manage products — I've founded them. Three ventures from zero, one scaled to 75,000+ users across 180 countries, bootstrapped and profitable.
 
-- 🏦 **OFP Funding** — Co-Founder & CTO. Prop trading platform: 75,000+ traders, $10M+ lifetime sales, 180+ countries, PSP integrations, risk systems, MT4/MT5 infra
+- 🏦 **OFP Funding** — Co-Founder & CTO. Prop trading platform: 200,000+ traders, $10M+ lifetime sales, 180+ countries, PSP integrations, risk systems, MT4/MT5 infra
 - 📈 **OverviewFX** — Co-Founder. Fintech SaaS for traders: 5,000+ users, 200% YoY revenue growth
 - 🤖 **SensoArgento** — Co-Founder. IoT product for elder care: full product lifecycle from research to market
 - 🔁 **Feedbackloops** — Fractional PM consultancy for seed-stage SaaS founders
